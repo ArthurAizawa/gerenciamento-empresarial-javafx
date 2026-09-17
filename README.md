@@ -1,4 +1,4 @@
-# 🖥️ Workshop JavaFX JDBC
+# gerenciamento-empresarial-javafx
 
 Sistema desktop desenvolvido em JavaFX para gerenciamento
 de vendedores e departamentos, utilizando JDBC e MySQL.
